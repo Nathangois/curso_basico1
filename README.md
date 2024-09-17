@@ -1,2 +1,19 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+## Projeto Aula
+
+## Rodar Projeto.
+
+1. clone o repositorio
+2. abrir projeto no vs
+3. executar
+4. veja o resultado
+
+
+## comando rodar
+
+'''bash
+dart run
+'''
+
+## Autor
+
+-[Nathan]
